@@ -1,0 +1,12 @@
+.ui-button {
+  padding: 10px 15px;
+  background-color: transparent;
+  border: 1px solid teal;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.ui-button:hover {
+  background-color: teal;
+  color: white;
+}
